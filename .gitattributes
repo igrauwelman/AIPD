@@ -1,0 +1,4 @@
+*.rmd linguist-vendored=false
+*.rmd linguist-generated=false
+*.rmd linguist-documentation=false
+*.rmd linguist-detectable=true
