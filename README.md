@@ -1,7 +1,7 @@
 # Welcome!
 
 We are glad that you found your way here. Assumably, you come from our chapter "A Modern God Complex - Doctor Who?" from the collaborative book "AI in public discourse" that is
-the result of the seminar with the same name and that was conducted by Dr. phil. Tobias Thelen at the University of Osnabrück.
+the result of a seminar with the same name and that was conducted by Dr. phil. Tobias Thelen at the University of Osnabrück in winter semester 20/21.
 
 ## What to find where?
 Under "CATMA_results.csv" and "CATMA_results_demands.csv", the original data we extracted from CATMA to work with it can be examined.
