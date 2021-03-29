@@ -1,7 +1,7 @@
 ---
 title: "AIPD - Diagnostics and Imaging Results"
 output:
-  github_document:
+  html_document:
     df_print: paged
     toc: true
     toc_depth: 2
@@ -18,7 +18,7 @@ library(ggplot2)
 # preprocessing
 ```{r}
 # load data from CATMA
-CATMA <- read.csv(file = "CATMA_results.csv", sep = ";")
+CATMA <- read.csv(file = "CATMA_results.csv", sep = ",")
 head(CATMA)
 ```
 
